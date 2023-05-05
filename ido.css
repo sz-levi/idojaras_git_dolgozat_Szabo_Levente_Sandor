@@ -5,6 +5,9 @@ body
 {
 	background-size:100% auto;
 	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	line-height: 1.5em;
 }
 
 #keret
