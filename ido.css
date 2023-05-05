@@ -59,3 +59,10 @@ h1, h2{
 	color: #243f84;
 	text-transform: capitalize;
 }
+.szurke{
+	font-size: small;
+	text-align: center;
+	color: #808183;
+	font-weight: bold;
+	text-decoration: none;
+}
