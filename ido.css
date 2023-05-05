@@ -69,7 +69,12 @@ h1, h2{
 	font-weight: bold;
 	text-decoration: none;
 }
-dd{
+dt{
 	color: #243f84;
 	text-decoration: underline;
+}
+#top_img{
+	float: right;
+	width: 5vw;
+	
 }
