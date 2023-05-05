@@ -28,9 +28,10 @@ p
 
 table
 {
-	border:outset;
+	border:outset 3px;
 	margin: auto;
 	border-collapse: collapse;
+	width: 80%;
 }
 hr
 {
