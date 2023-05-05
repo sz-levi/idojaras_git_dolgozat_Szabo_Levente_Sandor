@@ -53,3 +53,7 @@ input
 	font-size:medium;
 	margin-top:2%;
 }
+h1, h2{
+	color: #243f84;
+	text-transform: capitalize;
+}
