@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-size:100% auto;
+}
+
+#keret
+{
+	position:absolute;
+	left:20%;
+	top:5%;
+	box-shadow: 10px -5px 20px 0px rgba(0,0,0,0.5);
+}
+
+p
+{
+	text-align:justify;
+}
+
+table
+{
+	border:outset;
+}
+
+hr
+{
+	background-color:#243f84;
+	height:2px;
+	width:100%;
+}
+
+img
+{
+	width:100%;
+}
+
+ul
+{
+	font-size:small ;
+}
+
+input
+{
+	font-size:medium;
+	margin-top:2%;
+}

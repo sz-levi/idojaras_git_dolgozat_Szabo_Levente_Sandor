@@ -1,0 +1,34 @@
+2017. idõjárása
+
+A Földön a 2017-es évet hõmérsékleti szempontból jelenleg a három legmelegebb év között tartjuk számon. A globálisan rekord meleg 2016 után, az elmúlt év 2015-tel megegyezõ értékkel került a 3. helyre. A 2017-es év hazánk területén is összességében az átlagosnál melegebb volt.
+
+Az évi középhõmérséklet szinte teljesen megegyezett 2016. évivel, azonban elmaradt az eddigi legmelegebb 2014-es évtõl, melyet az 1. ábra szemléltet. Homogenizált, interpolált adatok alapján 2017-ben az országos középhõmérséklet mintegy 0,8 °C-kal haladta meg az 1981-2010-es sokévi átlagot és 11,14 °C-os középhõmérsékleti értékkel 1901 óta a tizenegyedik legmelegebbnek bizonyult. Az országos évi középhõmérséklet adatokhoz illesztett lineáris trend (1. ábra) egyértelmû emelkedést mutat. Az országos évi középhõmérséklet változása az elmúlt 117 évben +1,15 °C-nak, az elmúlt 30 évre vonatkozóan pedig +1,22 °C-nak adódik.
+
+Hõmérséklet
+
+Az országos havi középhõmérséklet eltérése a sokévi (1981-2010-es) átlagtól 2017-ben
+
+Januári középhõmérséklet (-4,8 °C) jelentõsen elmaradt az 1981-2010-es sokévi átlagtól
+Ezt követõen április és szeptember kivételével mindegyik hónap melegebb volt a megszokottnál.
+Márciusban a havi átlag 3,6 °C kal magasabbnak adódott a normálnál.
+Június +2,5 °C
+Augusztus +2,2 °C
+December +2,2 °C
+2017-hez köthetõ az 5. legmelegebb nyár
+Valamint a 12. legmelegebb tavasz
+
+Csapadék
+
+Havi csapadékösszegek 2017-ben és az 1981-2010-es átlagértékek (mm)
+
+Március
+2017 márciusa a szokásosnál szárazabb volt, az országos átlag 22,2 mm, ami az 1981-2010-es sokévi átlag csupán 64 %-a. A csapadék leginkább a középsõ országrészre koncentrálódott, 40-50 mm feletti értékeket eredményezve. Gerecse-tetõn regisztráltuk a legnagyobb havi összeget, 64 mm-rel. Az ország északkeleti és nyugati részein jelentkezett a legkisebb csapadékösszeg, az Õrség egyes részein 5 mm alatti értéket mértünk.
+Szeptember
+A hónap meglehetõsen csapadékosnak bizonyult, homogenizált adatok szerint az országos havi csapadékösszeg meghaladta a 95 mm-t. A legcsapadékosabb területek a Dunántúl nyugati részén és a Duna-Tisza közén voltak, egyes helyeken a havi összeg elérte a 200 mm-t is. Ugyanakkor a Tiszántúlon és a Maros mentén mindössze 40 mm hullott.
+Forrás: www.met.hu
+
+Hõingás kiszámítása
+A mai legalacsonyabb hõmérésklet: 
+A mai legmagasabb hõmérésklet: 
+
+<https://met.hu/eghajlat/magyarorszag_eghajlata/eghajlati_visszatekinto/elmult_evek_idojarasa/>
