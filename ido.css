@@ -29,8 +29,9 @@ p
 table
 {
 	border:outset;
+	margin: auto;
+	border-collapse: collapse;
 }
-
 hr
 {
 	background-color:#243f84;
