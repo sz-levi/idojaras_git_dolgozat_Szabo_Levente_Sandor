@@ -76,5 +76,7 @@ dt{
 #top_img{
 	float: right;
 	width: 5vw;
-	
+}
+input:active{
+	background-color: #808183;
 }
